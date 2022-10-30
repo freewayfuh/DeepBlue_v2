@@ -903,7 +903,7 @@ TextureImporter:
         x: 337
         y: 234
         width: 5
-        height: 12
+        height: 5
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1295,6 +1295,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: TX Props_55
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 241
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e4765a2bb57f54d926a1f65ceed5f4
+      internalID: 1424271716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1315,6 +1336,7 @@ TextureImporter:
       TX Props_21: -1807301930
       TX Props_47: -445584945
       TX Props_48: -1292258553
+      TX Props_55: 1424271716
       TX Props_32: -1924909568
       TX Props_34: 1570815107
       TX Props_42: 645310214

@@ -129,12 +129,12 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -8351,6 +8351,69 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: TX Tileset Modif_391
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d64b0acaec67a4093cfce0efbe3455
+      internalID: 2014427289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Modif_392
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d593a727607fe43b32b8db60718638
+      internalID: -895287273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Modif_393
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9896e06fff11d42ab0082bb1d61c0c
+      internalID: 1456031861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -8363,6 +8426,7 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       TX Tileset Modif_243: 34386628
+      TX Tileset Modif_393: 2014427289
       TX Tileset Modif_158: 1866887010
       TX Tileset Modif_190: -1241029731
       TX Tileset Modif_215: -975991513
@@ -8653,8 +8717,8 @@ TextureImporter:
       TX Tileset Modif_283: 1045615052
       TX Tileset Modif_19: 1498915587
       TX Tileset Modif_81: 1474525308
-      TX Tileset Modif_77: 1448823386
       TX Tileset Modif_389: -614136140
+      TX Tileset Modif_77: 1448823386
       TX Tileset Modif_56: 1174502179
       TX Tileset Modif_212: 1938847759
       TX Tileset Modif_317: 1523006837
@@ -8711,10 +8775,12 @@ TextureImporter:
       TX Tileset Modif_99: -1969403427
       TX Tileset Modif_172: -70983452
       TX Tileset Modif_377: -464387766
+      TX Tileset Modif_391: -1608423658
       TX Tileset Modif_196: 1869094190
       TX Tileset Modif_348: 1456261095
       TX Tileset Modif_39: 811226347
       TX Tileset Modif_49: -942372873
+      TX Tileset Modif_392: -2099295440
       TX Tileset Modif_10: -881320317
       TX Tileset Modif_219: -197885059
       TX Tileset Modif_15: 794413046
