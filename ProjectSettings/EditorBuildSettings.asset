@@ -116,7 +116,29 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/DeepBlue/Main/Scenes/DB_Main.unity
     guid: 34324467fa76e074ca2cdbf4d16a53d6
-  - enabled: 1
+  - enabled: 0
     path: Assets/DeepBlue/Main/Scenes/DB_Main_v2.unity
     guid: 00dbc844ddffc66428cbed8e972c2396
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/DeepBlue/Main/Scenes/Start.unity
+    guid: def01bfbd5545f1489aebe9c559914d3
+  - enabled: 1
+    path: Assets/DeepBlue/Main/Scenes/DB_Main_v2_new.unity
+    guid: 6890dcd4c8e690049b157fea00630f7b
+  - enabled: 1
+    path: Assets/DeepBlue/Main/Scenes/DB_Main_v2_ForSaveSys.unity
+    guid: b4f0907002a311a4ca656698613eb4db
+  - enabled: 1
+    path: Assets/DeepBlue/Main/Scenes/End.unity
+    guid: 90c5098576dc47f458153b5210d51d96
+  - enabled: 1
+    path: Assets/DeepBlue/Level1/Scenes/Level1.unity
+    guid: df5e1189ecb0ee5469d4cb21e984cd97
+  - enabled: 1
+    path: Assets/DeepBlue/Level2/Scenes/Level2.unity
+    guid: d249dc8c699516d43b3000a5b775a6b6
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 40dfc88be70e29e448a7ed066363f487,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 5cd69807b92dc2245b8e0946e7be1609, type: 2}
