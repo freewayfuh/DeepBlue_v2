@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3161632561972598678}
   - component: {fileID: 4356346325558922903}
   - component: {fileID: 6758936394971967263}
-  m_Layer: 10
+  m_Layer: 18
   m_Name: Weapon_Projectile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -62,7 +62,7 @@ MonoBehaviour:
   FaceDirection: 1
   FaceMovement: 0
   MovementVector: 0
-  Speed: 50
+  Speed: 150
   Acceleration: 2
   Direction: {x: -1, y: 0, z: 0}
   DirectionCanBeChangedBySpawner: 1
@@ -80,7 +80,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -247,7 +247,7 @@ GameObject:
   - component: {fileID: 3724630077905936812}
   - component: {fileID: 2580724058836517396}
   - component: {fileID: 80120956607281371}
-  m_Layer: 0
+  m_Layer: 18
   m_Name: KoalaCannonBulletFire
   m_TagString: Untagged
   m_Icon: {fileID: 0}

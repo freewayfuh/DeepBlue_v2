@@ -636,7 +636,7 @@ MonoBehaviour:
         height: 30
     entryGroups: []
     canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1
+    canvasZoom: 1.1199999
   - id: 2
     fields:
     - title: Title
@@ -767,7 +767,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u54E6\uFF1F\u53C8\u662F\u4ECE\u5176\u4ED6\u4E16\u754C\u91CC\u6389\u51FA\u4F86\u7684\u55CE\uFF1F\u4F60\u7684\u5F62\u614B\u2026
+        value: "\u54E6\uFF1F\u53C8\u662F\u5F9E\u5176\u4ED6\u4E16\u754C\u6389\u51FA\u4F86\u7684\u55CE\uFF1F\u4F60\u7684\u5F62\u614B\u2026
           \u4F3C\u4E4E\u548C\u6211\u4E4B\u524D\u9047\u5230\u7684\u90A3\u4F4D\u5F88\u76F8\u4F3C\u2026"
         type: 0
         typeString: 
@@ -823,7 +823,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u4E0D\u7BA1\u600E\u9EBC\u8AAA\uFF0C\u4F60\u5F88\u662F\u5E78\u904B\uFF0C\u660E\u660E\u9019\u500B\u4E16\u754C\u4E5F\u50C5\u80FD\u7DAD\u6301\u9019\u9EBC\u4E00\u7247\u53EF\u4EE5\u843D\u8173\u7684\u5730\u65B9\u4E86\uFF0C\u4F60\u537B\u53EF\u4EE5\u5728\u8846\u591A\u7834\u788E\u4E2D\u6B63\u597D\u6389\u5728\u9019\u3002"
+        value: "\u4E0D\u7BA1\u600E\u9EBC\u8AAA\uFF0C\u4F60\u975E\u5E38\u7684\u5E78\u904B\uFF0C\u660E\u660E\u9019\u500B\u4E16\u754C\u4E5F\u50C5\u80FD\u7DAD\u6301\u9019\u9EBC\u4E00\u7247\u53EF\u4EE5\u843D\u8173\u7684\u5730\u65B9\uFF0C\u4F60\u537B\u53EF\u4EE5\u5728\u773E\u591A\u7834\u788E\u4E2D\u6B63\u597D\u6389\u5728\u9019\u3002\u9019\u88E1\u662F\u201C\u66F8\u518A\u4E16\u754C\u201D\u4E4B\u4E00\u7684<deepblue>\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -851,8 +851,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 77.547165
-        y: 245.47168
+        x: 80.37735
+        y: 244.52826
         width: 160
         height: 30
     - id: 3
@@ -878,7 +878,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u6211\u53EBBeelze\uFF0C\u662F\u4E00\u4F4D\u5728\u7834\u788E\u4E2D\u5C0B\u627E\u7A2E\u5B50\u7684\u65C5\u8005\u3002\u4EC0\u9EBD\u662F\u7A2E\u5B50\uFF1F\u6211\u8879\u80FD\u8AAA\uFF0C\u5982\u679C\u4F60\u6709\u6A5F\u6703\u898B\u5230\u7684\u8A71\uFF0C\u4F60\u81EA\u7136\u6703\u7406\u89E3\uFF0C\u5426\u5247\u4F60\u6C38\u9060\u4E5F\u7121\u6CD5\u660E\u767D\u90A3\u4EE3\u8868\u4E86\u4EC0\u9EBD\u3002"
+        value: "\u800C\u4F60\uFF0C\u4F60\u7684\u578B\u614B\uFF0C\u6211\u60F3\u4E5F\u662F\u5728\u67D0\u500B\u201C\u66F8\u518A\u4E16\u754C\u201D\u6240\u8A95\u751F\u7684\u751F\u547D...
+          \u53E6\u5916\uFF0C\u6211\u7684\u540D\u5B57\u662FBeelze\uFF0C\u662F\u4E00\u4F4D\u5728\u7834\u788E\u4E2D\u5C0B\u627E<\u7A2E\u5B50>\u7684\u65C5\u8005\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -896,7 +897,7 @@ MonoBehaviour:
       - originConversationID: 2
         originDialogueID: 3
         destinationConversationID: 2
-        destinationDialogueID: 5
+        destinationDialogueID: 8
         isConnector: 0
         priority: 2
       conditionsString: 
@@ -906,8 +907,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 77.547165
-        y: 295.47168
+        x: 70
+        y: 306.55936
         width: 160
         height: 30
     - id: 5
@@ -933,7 +934,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\u5C0D\u65BC\u73FE\u5728\uFF0C\u6211\u552F\u4E00\u80FD\u5E6B\u4F60\u7684\uFF0C\u53EA\u6709\u9806\u4FBF\u544A\u77E5\u4E00\u4E0B\u9019\u5EA7\u57CE\u5821\u7684\u6240\u6709\u8005\uFF1A\u5916\u9762\u53C8\u6709\u4E86\u4E00\u4F4D\u7121\u5BB6\u53EF\u6B78\u4E4B\u5F92\u3002\u800C\u81F3\u65BC\u63A5\u4E0B\u4F86\u7684\u4E8B\uFF0C\u5927\u6982\u5C31\u8207\u6211\u7121\u95DC\u4E86\u3002"
+        value: "\u5C0D\u65BC\u7A2E\u5B50\uFF0C\u6211\u53EA\u80FD\u8AAA\uFF0C\u5982\u679C\u4F60\u6709\u6A5F\u6703\u898B\u5230\u7684\u8A71\uFF0C\u4F60\u81EA\u7136\u6703\u7406\u89E3\u3002\u800C\u201C\u66F8\u518A\u4E16\u754C\u201D\uFF0C\u6211\u60F3\u7B49\u4F60\u6709\u6A5F\u6703\u9032\u5165\u5176\u4ED6\u4E16\u754C\u7684\u6642\u5019\u81EA\u7136\u6703\u660E\u767D\u3002\u5C0D\u65BC\u73FE\u5728\uFF0C\u6211\u552F\u4E00\u80FD\u5E6B\u4F60\u7684\uFF0C\u53EA\u6709\u544A\u77E5\u4E00\u4E0B\u9019\u5EA7\u57CE\u5821\u7684\u6240\u6709\u8005\uFF1A\u201C\u5916\u9762\u53C8\u6709\u4E86\u4E00\u4F4D\u7121\u5BB6\u53EF\u6B78\u4E4B\u5F92\u201D\u3002\u800C\u81F3\u65BC\u63A5\u4E0B\u4F86\u7684\u4E8B\uFF0C\u5927\u6982\u5C31\u8207\u6211\u7121\u95DC\u4E86\u3002"
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -971,8 +972,8 @@ MonoBehaviour:
             m_CallState: 2
       canvasRect:
         serializedVersion: 2
-        x: 77.547165
-        y: 346.41507
+        x: 48.30188
+        y: 455.84906
         width: 160
         height: 30
     - id: 6
@@ -1048,7 +1049,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u4EC0\u9EBD\u610F\u601D\uFF1F\u6211\u9019\u662F\u5728\u54EA\u88CF\uFF1F\u767C\u751F\u4E86\u4EC0\u9EBD\uFF1F"
+        value: "\u4EC0\u9EBD\u610F\u601D\uFF1F\u6211\u73FE\u5728\u5728\u54EA\u88E1\uFF1F\u767C\u751F\u4E86\u4EC0\u9EBD\uFF1F"
         type: 0
         typeString: 
       - title: Sequence
@@ -1080,9 +1081,64 @@ MonoBehaviour:
         y: 153.96225
         width: 160
         height: 30
+    - id: 8
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: "\u4EC0\u9EBD\u662F\u201C\u66F8\u518A\u4E16\u754C\u201D\uFF1F \u4EC0\u9EBD\u662F\u7A2E\u5B50\uFF1F"
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 2
+        originDialogueID: 8
+        destinationConversationID: 2
+        destinationDialogueID: 5
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 60.566055
+        y: 369.91248
+        width: 160
+        height: 30
     entryGroups: []
     canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1.06
+    canvasZoom: 0.9100001
   - id: 3
     fields:
     - title: Title
@@ -1647,7 +1703,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u6211\u662F\u9019\u5EA7\u57CE\u5821\u7684\u7BA1\u7406\u8005Sandalphon\uFF0C\u8207\u5176\u8AAA\u662F\u9019\u5EA7\u57CE\u5821\uFF0C\u4E0D\u5982\u8AAA\u662F\u9019\u500B\u4E16\u754C\u3001\u9019\u500B\u6545\u4E8B\u3002\u554A\u2026\u9019\u53C8\u8B93\u6211\u56DE\u61B6\u8D77\u4E86\u90A3\u5EA7\u4EE4\u6211\u5F77\u5FA8\u7684\u201C\u5C71\u201D\uFF0C\u90A3\u500B\u6211\u6240\u57F7\u7B46\u7684\u7B2C\u4E8C\u4E2A\u4E16\u754C\u3002"
+        value: "\u6211\u662F\u9019\u5EA7\u57CE\u5821\u7684\u7BA1\u7406\u8005Sandalphon\uFF0C\u8207\u5176\u8AAA\u662F\u9019\u5EA7\u57CE\u5821\uFF0C\u4E0D\u5982\u8AAA\u662F\u9019\u500B\u4E16\u754C\u3001\u9019\u500B\u6545\u4E8B\u3002\u554A\u2026\u9019\u53C8\u8B93\u6211\u56DE\u61B6\u8D77\u4E86\u90A3\u5EA7\u4EE4\u6211\u5F77\u5FA8\u7684\u201C\u5C71\u201D\uFF0C\u90A3\u500B\u6211\u6240\u57F7\u7B46\u7684\u7B2C\u4E8C\u500B\u4E16\u754C\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -1757,7 +1813,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u4F5C\u70BA\u4ECE\u5E95\u5C64\u4E16\u754C\u8A95\u751F\u7684\u4F60\u4F86\u8AAA\u53EF\u80FD\u96E3\u4EE5\u7406\u89E3\u6211\u60F3\u8868\u9054\u7684\u662F\u4EC0\u9EBC\uFF0C\u6240\u4EE5\u6211\u4E5F\u5E76\u4E0D\u671F\u671B\u4F60\u8981\u505A\u4EC0\u9EBD\uFF0C\u6211\u53EA\u662F\u5728\u9019\u88CF\u975C\u975C\u5730\u7B49\u5F85\u8457\u6211\u7684\u5E0C\u671B\uFF08\u5E0C\u671B\u4E4B\u528D\uFF09\uFF0C\u4F60\u78BA\u5BE6\u4E5F\u6709\u4E00\u628A\u528D\uFF0C\u4E0D\u904E\u90A3\u61C9\u8A72\u4E0D\u662F\u6211\u6240\u5C0B\u627E\u7684\uFF0C\u4F60\u6240\u64C1\u6709\u7684\u8879\u662F\u4E00\u628A\u7121\u7528\u7684\u65B7\u528D\u3002"
+        value: "\u4F5C\u70BA\u5F9E\u5E95\u5C64\u4E16\u754C\u8A95\u751F\u7684\u4F60\u4F86\u8AAA\u53EF\u80FD\u96E3\u4EE5\u7406\u89E3\u6211\u60F3\u8868\u9054\u7684\u662F\u4EC0\u9EBC\uFF0C\u6240\u4EE5\u6211\u4E5F\u4E26\u4E0D\u671F\u671B\u4F60\u8981\u505A\u4EC0\u9EBD\uFF0C\u6211\u53EA\u662F\u5728\u9019\u88E1\u975C\u975C\u5730\u7B49\u5F85\u8457\u6211\u7684\u5E0C\u671B\uFF08\u5E0C\u671B\u4E4B\u528D\uFF09\uFF0C\u4F60\u78BA\u5BE6\u4E5F\u6709\u4E00\u628A\u528D\uFF0C\u4E0D\u904E\u90A3\u61C9\u8A72\u4E0D\u662F\u6211\u6240\u5C0B\u627E\u7684\uFF0C\u4F60\u6240\u64C1\u6709\u7684\u53EA\u662F\u4E00\u628A\u7121\u7528\u7684\u65B7\u528D\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -1862,7 +1918,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u770B\u4F86\u4F60\u5E76\u6C92\u6709\u4EC0\u9EBD\u91CD\u8981\u7684\u4E8B......"
+        value: "\u770B\u4F86\u4F60\u4E26\u6C92\u6709\u4EC0\u9EBD\u91CD\u8981\u7684\u4E8B......"
         type: 0
         typeString: 
       - title: Sequence
@@ -1911,7 +1967,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u7232\u4EC0\u9EBD\u6211\u5728\u9019\u88CF\u611F\u53D7\u5230\u4E86\u4E00\u80A1\u719F\u6089\u7684\u529B\u91CF......"
+        value: "\u7232\u4EC0\u9EBD\u6211\u5728\u9019\u88E1\u611F\u53D7\u5230\u4E86\u4E00\u80A1\u719F\u6089\u7684\u529B\u91CF......"
         type: 0
         typeString: 
       - title: Sequence
@@ -1939,7 +1995,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 797.0309
+        x: 795.71515
         y: 70
         width: 160
         height: 30
@@ -2201,7 +2257,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u7F8E\u5999\uFF01\u5F85\u6211\u638C\u63A7\u4E86\u7834\u788E\u7684\u529B\u91CF\uFF0C\u6211\u5C31\u64C1\u6709\u4E86\u8207\u4E0A\u4F4D\u7D71\u6CBB\u8005\u5011\u76F8\u5339\u6575\u7684\u529B\u91CF\uFF01\u54C8\u54C8\u54C8\u54C8\u54C8\uFF01"
+        value: "\u7F8E\u5999\uFF01\u7B49\u6211\u638C\u63A7\u4E86\u7834\u788E\u7684\u529B\u91CF\uFF0C\u6211\u5C31\u64C1\u6709\u4E86\u8207\u4E0A\u4F4D\u7D71\u6CBB\u8005\u5011\u76F8\u5339\u6575\u7684\u529B\u91CF\uFF01\u54C8\u54C8\u54C8\u54C8\u54C8\uFF01"
         type: 0
         typeString: 
       - title: Sequence
@@ -2454,8 +2510,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 17.776627, y: 0}
-    canvasZoom: 0.85000014
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.7600002
   - id: 5
     fields:
     - title: Title
@@ -2647,7 +2703,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u544A\u8A34\u4F60\u4E00\u500B\u79D8\u5BC6\uFF1A\u9019\u57CE\u5821\u7684\u5730\u7262\u53EF\u4EE5\u901A\u5411\u5F88\u6DF1\u7684\u5730\u4E0B\uFF0C\u4F46\u5730\u4E0B\u4F3C\u4E4E\u602A\u7684\u5F88\uFF0C\u7E3D\u6709\u4EBA\u6703\u83AB\u540D\u5176\u5999\u6B7B\u5728\u5730\u7262\u7684\u9580\u53E3\u3002\u81F3\u65BC\u70BA\u4EC0\u9EBC\u9084\u6709\u4EBA\u6703\u53BB\u5730\u7262\uFF1F\u90A3\u7576\u7136\u662F\u56E0\u70BA\u5730\u4E0B\u5BA4\u91CC\u6709\u5F88\u591A\u201C\u5947\u7279\u7684\u73CD\u54C1\u201D"
+        value: "\u544A\u8A34\u4F60\u4E00\u500B\u79D8\u5BC6\uFF1A\u9019\u57CE\u5821\u7684\u5730\u7262\u53EF\u4EE5\u901A\u5411\u5F88\u6DF1\u7684\u5730\u4E0B\uFF0C\u4F46\u5730\u4E0B\u4F3C\u4E4E\u602A\u5F97\u5F88\uFF0C\u7E3D\u6709\u4EBA\u6703\u83AB\u540D\u5176\u5999\u6B7B\u5728\u5730\u7262\u7684\u9580\u53E3\u3002\u81F3\u65BC\u70BA\u4EC0\u9EBC\u9084\u6709\u4EBA\u6703\u53BB\u5730\u7262\uFF1F\u90A3\u7576\u7136\u662F\u56E0\u70BA\u5730\u7262\u88E1\u6709\u5F88\u591A\u201C\u5947\u7279\u7684\u73CD\u54C1\u201D"
         type: 0
         typeString: 
       - title: Sequence
@@ -2832,8 +2888,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 49.173866, y: 30.012579}
-    canvasZoom: 1.2399998
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 1
   - id: 6
     fields:
     - title: Title
@@ -3031,7 +3087,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u6211\u662F\u5B78\u7FD2\u80FD\u91CF\u9B54\u6CD5\u7684Inanna\u3002\u6211\u5EFA\u8B70\u4F60\u53EF\u4EE5\u5728\u9019\u88CF\u5148\u4FEE\u990A\u4E00\u9663\u5B50\uFF0C\u7562\u7ADF\u9019\u4E5F\u662F\u5979(Skelis)\u505C\u7559\u904E\u7684\u5730\u65B9\uFF0C\u6216\u8A31\u7D66\u4F60\u7559\u4E0B\u4E00\u4E9B\u4FE1\u606F\u3002\u5C0D\u4E86\uFF0C\u5982\u679C\u4F60\u53EF\u4EE5\u7D66\u6211\u5E36\u4F86\u4E00\u4E9B\u860A\u542B\u80FD\u91CF\u7684\u6771\u897F\uFF0C\u9019\u6A23\u6211\u5C31\u80FD\u5F9E\u4E2D\u63D0\u53D6\u51FA\u201C\u9B54\u6CD5\u5553\u793A\u201D\uFF0C\u9019\u6A23\u4F60\u4E5F\u80FD\u5F9E\u4E2D\u5B78\u7FD2\u5230\u9B54\u6CD5\u3002"
+        value: "\u6211\u662F\u5B78\u7FD2\u80FD\u91CF\u9B54\u6CD5\u7684Inanna\u3002\u6211\u5EFA\u8B70\u4F60\u53EF\u4EE5\u5728\u9019\u88E1\u5148\u4FEE\u990A\u4E00\u9663\u5B50\uFF0C\u7562\u7ADF\u9019\u4E5F\u662F\u5979(Skelis)\u505C\u7559\u904E\u7684\u5730\u65B9\uFF0C\u6216\u8A31\u7D66\u4F60\u7559\u4E0B\u4E00\u4E9B\u4FE1\u606F\u3002\u5C0D\u4E86\uFF0C\u5982\u679C\u4F60\u53EF\u4EE5\u7D66\u6211\u5E36\u4F86\u4E00\u4E9B\u860A\u542B\u80FD\u91CF\u7684\u6771\u897F\uFF0C\u9019\u6A23\u6211\u5C31\u80FD\u5F9E\u4E2D\u63D0\u53D6\u51FA\u201C\u9B54\u6CD5\u5553\u793A\u201D\uFF0C\u9019\u6A23\u4F60\u4E5F\u80FD\u5F9E\u4E2D\u5B78\u7FD2\u5230\u9B54\u6CD5\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -3505,7 +3561,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u54E6\uFF0C\u65B0\u4F86\u7684\u65C5\u8005\uFF0C\u4F60\u8AAA\u5728\u4F86\u5230\u9019\u88CF\u4E4B\u524D\u540C\u884C\u8005\u9084\u6709\u500B\u5973\u5B69\uFF1F\u53EBSkelis\uFF1F\u6211\u77E5\u9053\u9019\u500B\u540D\u5B57\uFF0C\u5979\u4E5F\u66FE\u4F86\u5230\u904E\u9019\uFF0C\u6211\u6307\u5C0E\u904E\u5979\u9B54\u6CD5\uFF0C\u5979\u771F\u662F\u4E00\u4F4D\u5929\u8CE6\u7570\u7A1F\u7684\u5B78\u751F\uFF0C\u6211\u76F8\u4FE1\u5979\u5728\u9B54\u6CD5\u4E0A\u7684\u6210\u5C31\u4E00\u5B9A\u6703\u8D85\u8D8A\u6211\u7684\u7562\u751F\u6240\u5B78\u3002"
+        value: "\u54E6\uFF0C\u65B0\u4F86\u7684\u65C5\u8005\uFF0C\u4F60\u8AAA\u5728\u4F86\u5230\u9019\u88E1\u4E4B\u524D\u540C\u884C\u8005\u9084\u6709\u500B\u5973\u5B69\uFF1F\u53EBSkelis\uFF1F\u6211\u77E5\u9053\u9019\u500B\u540D\u5B57\uFF0C\u5979\u4E5F\u66FE\u4F86\u5230\u904E\u9019\uFF0C\u6211\u6307\u5C0E\u904E\u5979\u9B54\u6CD5\uFF0C\u5979\u771F\u662F\u4E00\u4F4D\u5929\u8CE6\u7570\u7A1F\u7684\u5B78\u751F\uFF0C\u6211\u76F8\u4FE1\u5979\u5728\u9B54\u6CD5\u4E0A\u7684\u6210\u5C31\u4E00\u5B9A\u6703\u8D85\u8D8A\u6211\u7684\u7562\u751F\u6240\u5B78\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -3560,7 +3616,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u8ACB\u554F\uFF0C\u4F60\u6709\u898B\u904E\u4E00\u500B\u9ED1\u9AEE\u5973\u5B50\u55CE\uFF1F\u5979\u53EBSkelis\uFF0C\u5979\u662F\u6211\u7684\u540C\u4F34\uFF0C\u4F3C\u4E4E\u662F\u5728\u6211\u843D\u5230\u9019\u88CF\u7684\u6642\u5019\u8D70\u6563\u4E86\u3002"
+        value: "\u8ACB\u554F\uFF0C\u4F60\u6709\u898B\u904E\u4E00\u500B\u9ED1\u9AEE\u5973\u5B50\u55CE\uFF1F\u5979\u53EBSkelis\uFF0C\u5979\u662F\u6211\u7684\u540C\u4F34\uFF0C\u4F3C\u4E4E\u662F\u5728\u6211\u843D\u5230\u9019\u88E1\u7684\u6642\u5019\u8D70\u6563\u4E86\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -3731,14 +3787,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u05D1\u05E9\u05DD \u05D4\u05D1\u05D5\u05E8\u05D0 \u05D4\u05D2\u05D3\u05D5\u05DC,
-          \u05D0\u05E0\u05D9 \u05DE\u05E9\u05EA\u05DE\u05E9 \u05D1\u05DE\u05D7\u05E9\u05D1\u05D5\u05EA
-          \u05E9\u05DC\u05D9 \u05DB\u05D3\u05D9 \u05DC\u05D8\u05D5\u05D5\u05EA \u05D0\u05EA
-          \u05D4\u05DE\u05E1\u05D2\u05E8\u05EA \u05D4\u05DE\u05D7\u05D6\u05D9\u05E7\u05D4
-          \u05D0\u05EA \u05D4\u05E2\u05D5\u05DC\u05DE\u05D5\u05EA \u05D4\u05E8\u05D1\u05D9\u05DD
-          \u05D9\u05D7\u05D3 \u05D5\u05DC\u05D8\u05E4\u05D7 \u05D0\u05EA \u05D4\u05D6\u05E8\u05E2\u05D9\u05DD
-          \u05D4\u05D3\u05E8\u05D5\u05E9\u05D9\u05DD \u05DC\u05E6\u05DE\u05D9\u05D7\u05D4
-          \u05E9\u05DD."
+        value: ...... ...... ......
         type: 0
         typeString: 
       - title: Sequence
