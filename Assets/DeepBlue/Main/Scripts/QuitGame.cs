@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class QuitGame : MonoBehaviour
 {
-    private void Start() {¡¡¡¡
+    private void Start() {
         this.GetComponent<Button>().onClick.AddListener(OnClick);
     }
 
